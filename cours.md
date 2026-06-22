@@ -1,4 +1,4 @@
-# 📚 Kubernetes — Support de Formation
+# Kubernetes — Support de Formation
 
 > Ce document est le support théorique de l'atelier. Il couvre les concepts essentiels pour comprendre ce que vous allez manipuler dans le lab.
 
@@ -107,7 +107,7 @@ Un cluster Kubernetes est composé de deux types de nœuds :
 | **kube-proxy**     | Gère les règles réseau pour exposer les Services.                 |
 | **Container Runtime** | Docker, containerd… Fait tourner les conteneurs.               |
 
-> 💡 **Dans Minikube**, le control plane et le worker tournent sur la même machine virtuelle. C'est un cluster à nœud unique, parfait pour le dev et l'apprentissage.
+>  **Dans Minikube**, le control plane et le worker tournent sur la même machine virtuelle. C'est un cluster à nœud unique, parfait pour le dev et l'apprentissage.
 
 ---
 
